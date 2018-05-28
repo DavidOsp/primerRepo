@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 GHJFRDE
+=======
+Hi there im using ATOM text editor and you?
+>>>>>>> rama0
 =======
 Hi there im using ATOM text editor and you?
 >>>>>>> rama0
